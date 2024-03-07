@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "introduction/System Calls.md",
+                "file": "introduction/Operating System Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "introduction/System Calls.md",
+                "file": "introduction/Operating System Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "introduction/System Calls.md",
+                "file": "introduction/Operating System Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "introduction/System Calls.md"
+                "file": "introduction/Operating System Structure.md"
               }
             }
           }
@@ -148,19 +148,22 @@
   },
   "active": "62d45d2ed28e44bc",
   "lastOpenFiles": [
-    "Summary.md~",
-    "README.md",
-    "Summary.md",
-    "introduction/System Calls.md",
     "introduction/Operating System Concepts.md",
-    "introduction/memory_hierarchy.png",
+    "introduction/Operating System Structure.md",
     "introduction/operating_systems_turn_ugly_hardware_into_beautiful_abstractions.png",
     "introduction/process_tree.png",
-    "introduction/What is an Operating System?.md",
-    "introduction/Computer Hardware Review.md",
-    "introduction/structure_of_a_disk.png",
     "introduction/some_of_the_componentes_of_a_simple_personal_computer.png",
+    "introduction/structure_of_a_disk.png",
     "introduction/where_the_operating_system_fits_in.png",
+    "introduction/What is an Operating System?.md",
+    "introduction/System Calls.md",
+    "introduction/Introduction.md",
+    "introduction/Computer Hardware Review.md",
+    "Summary.md",
+    "README.md",
+    "introduction/mount_call_example.png",
+    "Summary.md~",
+    "introduction/memory_hierarchy.png",
     "2024-03-06.md",
     "introduction/Screenshot from 2024-03-06 18-10-48.png",
     "What is an *Operating System*.md",
