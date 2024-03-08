@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "51a520f6b01c7beb",
+        "id": "9f93f31da3dc1e37",
         "type": "tabs",
         "children": [
           {
-            "id": "62d45d2ed28e44bc",
+            "id": "5fe6cc2615643ad9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,22 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62d45d2ed28e44bc",
+  "active": "5fe6cc2615643ad9",
   "lastOpenFiles": [
-    "introduction/Operating System Concepts.md",
+    "introduction/the_os.png",
+    "introduction/monolithic_system.png",
+    "introduction/mount_call_example.png",
     "introduction/Operating System Structure.md",
-    "introduction/operating_systems_turn_ugly_hardware_into_beautiful_abstractions.png",
+    "introduction/Computer Hardware Review.md",
     "introduction/process_tree.png",
+    "Summary.md",
+    "README.md",
+    "introduction/Operating System Concepts.md",
+    "introduction/operating_systems_turn_ugly_hardware_into_beautiful_abstractions.png",
     "introduction/some_of_the_componentes_of_a_simple_personal_computer.png",
     "introduction/structure_of_a_disk.png",
     "introduction/where_the_operating_system_fits_in.png",
     "introduction/What is an Operating System?.md",
     "introduction/System Calls.md",
     "introduction/Introduction.md",
-    "introduction/Computer Hardware Review.md",
-    "Summary.md",
-    "README.md",
-    "introduction/mount_call_example.png",
     "Summary.md~",
     "introduction/memory_hierarchy.png",
     "2024-03-06.md",
