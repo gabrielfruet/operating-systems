@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9f93f31da3dc1e37",
+        "id": "08b19e5ad9012d40",
         "type": "tabs",
         "children": [
           {
-            "id": "5fe6cc2615643ad9",
+            "id": "3e73c3f655817ae0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "introduction/Operating System Structure.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "introduction/Operating System Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "introduction/Operating System Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "introduction/Operating System Structure.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,28 +138,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fe6cc2615643ad9",
+  "active": "3e73c3f655817ae0",
   "lastOpenFiles": [
-    "introduction/the_os.png",
-    "introduction/monolithic_system.png",
-    "introduction/mount_call_example.png",
-    "introduction/Operating System Structure.md",
-    "introduction/Computer Hardware Review.md",
-    "introduction/process_tree.png",
     "Summary.md",
+    "introduction/Introduction.md",
     "README.md",
     "introduction/Operating System Concepts.md",
-    "introduction/operating_systems_turn_ugly_hardware_into_beautiful_abstractions.png",
-    "introduction/some_of_the_componentes_of_a_simple_personal_computer.png",
-    "introduction/structure_of_a_disk.png",
-    "introduction/where_the_operating_system_fits_in.png",
-    "introduction/What is an Operating System?.md",
     "introduction/System Calls.md",
-    "introduction/Introduction.md",
-    "Summary.md~",
+    "introduction/What is an Operating System?.md",
+    "introduction/Q&A.md",
+    "introduction/Computer Hardware Review.md",
+    "introduction/What.md",
+    "'What.md",
+    "Review of Tanenbau Modern Operating Systems book..md",
+    "introduction/Operating System Structure.md",
+    "introduction/monolithic_system.png",
     "introduction/memory_hierarchy.png",
+    "introduction/the_os.png",
+    "introduction/some_of_the_componentes_of_a_simple_personal_computer.png",
+    "introduction/process_tree.png",
+    "introduction/structure_of_a_disk.png",
+    "introduction/mount_call_example.png",
+    "introduction/minix_3_approach.png",
+    "introduction/operating_systems_turn_ugly_hardware_into_beautiful_abstractions.png",
+    "introduction/where_the_operating_system_fits_in.png",
+    "Summary.md~",
     "2024-03-06.md",
-    "introduction/Screenshot from 2024-03-06 18-10-48.png",
     "What is an *Operating System*.md",
     "introduction"
   ]

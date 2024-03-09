@@ -32,6 +32,20 @@ some idea of the spectrum of possibilities.
    5. The system operator.
 - Above every layer, a new set of abstraction is defined, such that the one above layer *i* don't need to worry about layer *i* internals.
 ## Microkernels
-
-
-   
+- Using only one kernel was problematic cause one bug in kernel mode could cause the system to go down instantly.
+- The basic idea behind the microkernel design is to achieve high reliability by splitting the operating system up into small, well-defined modules, only one of which—the microkernel—runs in kernel mode and the rest run as relatively powerless ordinary user processes.
+- So, a bug in one of these can cause the component, but cannot crash the entire system.
+- Example of micro kernels: K42, L4, PikeOS, QNX, Symbian and MINIX 3.
+- MINIX 3 is a POSIX-conformant, open source system.
+- MINIX 3 microkernel is only about 12,000 lines of C and some 1400 lines of assembler for very low-level functions such as catching interrupts and switching process.
+- It offers a set of microkernels to allow the rest of the O.S to work.
+![[minix_3_approach.png]]
+- Outside the kernel, the system is structured in three layers all running in user mode.
+  - The lowest contains the device drivers. As they run in user mode, they have to call the kernel for making I/O operations.
+  - The user-mode layer above device drivers in the operating system structure houses servers that execute most operating system tasks, such as file management and process handling, with a reincarnation server ensuring self-healing and high reliability by automatically replacing faulty components.
+  - At the top, there is user programs and process, the most high-level part.
+## Client-Server model
+- Slight variation of microkernel.
+- Distinguish two classes of process: **Servers** and **Clients**.
+- Communication between then is through message passing. 
+- If the client wants something, it sends a message to the server and it does the work to send back the answer.
