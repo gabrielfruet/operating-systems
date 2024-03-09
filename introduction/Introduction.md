@@ -1,7 +1,7 @@
-### [What is an Operating System?](<introduction/What is an Operating System?.md>)
-### [Computer Hardware Review](<introduction/Computer Hardware Review.md>)
-### [Operating System Concepts](<introduction/Operating System Concepts.md>)
-### [System Calls](<introduction/System Calls.md>)
-### [Operating System Structure](<introduction/What is an Operating System?.md>)
+### [What is an Operating System?](<What is an Operating System?.md>)
+### [Computer Hardware Review](<Computer Hardware Review.md>)
+### [Operating System Concepts](<Operating System Concepts.md>)
+### [System Calls](<System Calls.md>)
+### [Operating System Structure](<What is an Operating System?.md>)
 
-### [Q&A](<introduction/Q&A.md>)
+### [Q&A](<Q&A.md>)
